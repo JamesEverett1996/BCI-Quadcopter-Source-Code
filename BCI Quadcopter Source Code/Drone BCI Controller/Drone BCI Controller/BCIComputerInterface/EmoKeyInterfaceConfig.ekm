@@ -1,0 +1,50 @@
+<EmoMappingModel mappingName="EmoKeyInterfaceConfig.ekm" >
+    <EmoMapping enabled="1" name="Throttle/Frustration" keys="j" sendOnce="1" sendToFocus="0" targetApp="cognitivTab" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="0" holdKey="0" holdTime="20" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="16" />
+            <threshold type="double" value="0.5" />
+            <actionRule value="2" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="Slow/Meditation" keys="k" sendOnce="1" sendToFocus="0" targetApp="C:\Windows\System32\cmd.exe - python  BCIControler.py" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="0" holdKey="0" holdTime="20" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="15" />
+            <threshold type="double" value="0.2" />
+            <actionRule value="2" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="Forward/Brow Raise" keys="w" sendOnce="1" sendToFocus="0" targetApp="C:\Windows\System32\cmd.exe - python  BCIControler.py" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="0" holdKey="0" holdTime="20" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="3" />
+            <threshold type="double" value="0.2" />
+            <actionRule value="2" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="Backward/Furrow Brow" keys="s" sendOnce="1" sendToFocus="0" targetApp="C:\Windows\System32\cmd.exe - python  BCIControler.py" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="0" holdKey="0" holdTime="20" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="4" />
+            <threshold type="double" value="0.2" />
+            <actionRule value="2" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="Left/Look Left" keys="a" sendOnce="1" sendToFocus="0" targetApp="C:\Windows\System32\cmd.exe - python  BCIControler.py" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="0" holdKey="0" holdTime="20" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="5" />
+            <threshold type="bool" value="true" />
+            <actionRule value="0" />
+        </EmoStateCondition>
+    </EmoMapping>
+    <EmoMapping enabled="1" name="Right/Look Right" keys="d" sendOnce="1" sendToFocus="0" targetApp="C:\Windows\System32\cmd.exe - python  BCIControler.py" sendHotKeys="0" ctrlKey="0" altKey="0" shiftKey="0" winKey="0" enterKey="0" hotKey="0" holdKey="0" holdTime="20" triggerDelayTime="20" player="0" mouseclickset="0" mousebutnum="-1">
+        <EmoStateCondition>
+            <enabled value="1" />
+            <action value="6" />
+            <threshold type="bool" value="true" />
+            <actionRule value="0" />
+        </EmoStateCondition>
+    </EmoMapping>
+</EmoMappingModel>

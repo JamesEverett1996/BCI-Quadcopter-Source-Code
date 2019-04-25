@@ -1,0 +1,490 @@
+2019-04-08 16:43:43,671 - root - INFO - Serial Link to arduino created - __init__ - line 20
+2019-04-08 16:43:43,671 - root - INFO - Command: ServoSet1:90
+ - servoSet - line 35
+2019-04-08 16:43:44,774 - root - INFO - Response: b'' - logCommand - line 31
+2019-04-08 16:43:44,975 - root - INFO - Command: ServoSet1:60
+ - servoSet - line 35
+2019-04-08 16:43:45,078 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 31
+2019-04-08 16:43:45,278 - root - INFO - Command: ServoSet2:0
+ - servoSet - line 35
+2019-04-08 16:43:45,381 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 31
+2019-04-08 16:43:45,582 - root - INFO - Command: ServoSet2:90
+ - servoSet - line 35
+2019-04-08 16:43:45,684 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 31
+2019-04-08 16:43:45,886 - root - INFO - Command: ServoSet3:0
+ - servoSet - line 35
+2019-04-08 16:43:45,988 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 31
+2019-04-08 16:43:46,188 - root - INFO - Command: ServoSet3:90
+ - servoSet - line 35
+2019-04-08 16:43:46,289 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 31
+2019-04-08 16:44:32,045 - root - INFO - Serial Link to arduino created - __init__ - line 20
+2019-04-08 16:44:32,045 - root - INFO - Command: ServoSet1:90
+ - servoSet - line 35
+2019-04-08 16:44:33,149 - root - INFO - Response: b'' - logCommand - line 31
+2019-04-08 16:44:33,350 - root - INFO - Command: ServoSet1:60
+ - servoSet - line 35
+2019-04-08 16:44:33,452 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 31
+2019-04-08 16:44:33,652 - root - INFO - Command: ServoSet2:0
+ - servoSet - line 35
+2019-04-08 16:44:33,755 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 31
+2019-04-08 16:44:33,955 - root - INFO - Command: ServoSet2:90
+ - servoSet - line 35
+2019-04-08 16:44:34,057 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 31
+2019-04-08 16:44:34,258 - root - INFO - Command: ServoSet3:0
+ - servoSet - line 35
+2019-04-08 16:44:34,361 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 31
+2019-04-08 16:44:34,562 - root - INFO - Command: ServoSet3:90
+ - servoSet - line 35
+2019-04-08 16:44:34,664 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 31
+2019-04-08 16:47:31,840 - root - INFO - Serial Link to arduino created - __init__ - line 20
+2019-04-08 16:47:31,840 - root - INFO - Command: ServoSet1:90
+ - servoSet - line 35
+2019-04-08 16:47:32,944 - root - INFO - Response: b'' - logCommand - line 31
+2019-04-08 16:47:33,145 - root - INFO - Command: ServoSet1:60
+ - servoSet - line 35
+2019-04-08 16:47:33,246 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 31
+2019-04-08 16:47:33,447 - root - INFO - Command: ServoSet2:0
+ - servoSet - line 35
+2019-04-08 16:47:33,550 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 31
+2019-04-08 16:47:33,751 - root - INFO - Command: ServoSet2:90
+ - servoSet - line 35
+2019-04-08 16:47:33,853 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 31
+2019-04-08 16:47:34,053 - root - INFO - Command: ServoSet3:0
+ - servoSet - line 35
+2019-04-08 16:47:34,156 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 31
+2019-04-08 16:47:34,357 - root - INFO - Command: ServoSet3:90
+ - servoSet - line 35
+2019-04-08 16:47:34,459 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 31
+2019-04-08 16:48:38,994 - root - INFO - Serial Link to arduino created - __init__ - line 20
+2019-04-08 16:48:38,994 - root - INFO - Command: ServoSet1:90
+ - servoSet - line 35
+2019-04-08 16:48:40,098 - root - INFO - Response: b'' - logCommand - line 31
+2019-04-08 16:48:40,299 - root - INFO - Command: ServoSet1:60
+ - servoSet - line 35
+2019-04-08 16:48:40,402 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 31
+2019-04-08 16:48:40,603 - root - INFO - Command: ServoSet2:0
+ - servoSet - line 35
+2019-04-08 16:48:40,706 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 31
+2019-04-08 16:48:40,906 - root - INFO - Command: ServoSet2:90
+ - servoSet - line 35
+2019-04-08 16:48:41,009 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 31
+2019-04-08 16:48:41,211 - root - INFO - Command: ServoSet3:0
+ - servoSet - line 35
+2019-04-08 16:48:41,313 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 31
+2019-04-08 16:48:41,515 - root - INFO - Command: ServoSet3:90
+ - servoSet - line 35
+2019-04-08 16:48:41,617 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 31
+2019-04-09 10:54:43,181 - root - INFO - Serial Link to arduino created - __init__ - line 20
+2019-04-09 10:54:43,181 - root - INFO - Command: ServoSet1:10
+ - servoSet - line 34
+2019-04-09 10:54:44,283 - root - INFO - Command: ServoSet1:10 - logCommand - line 29
+2019-04-09 10:54:44,283 - root - INFO - Response: b'' - logCommand - line 30
+2019-04-09 10:54:44,283 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-09 10:54:44,383 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-09 10:54:44,383 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 10:54:44,384 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-09 10:54:44,484 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-09 10:54:44,485 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 10:54:44,926 - root - INFO - Backwards EmoKeyCommand - readEmoKeyCommand - line 181
+2019-04-09 10:54:44,928 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-09 10:54:45,033 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-09 10:54:45,033 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 10:54:45,034 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-09 10:54:45,135 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-09 10:54:45,135 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 10:54:45,136 - root - INFO - Command: ServoSet2:50
+ - servoSet - line 34
+2019-04-09 10:54:45,237 - root - INFO - Command: ServoSet2:50 - logCommand - line 29
+2019-04-09 10:54:45,237 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 10:54:45,546 - root - INFO - Backwards EmoKeyCommand - readEmoKeyCommand - line 181
+2019-04-09 10:54:45,546 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-09 10:54:45,647 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-09 10:54:45,648 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 10:54:45,648 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-09 10:54:45,749 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-09 10:54:45,749 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 10:54:45,750 - root - INFO - Command: ServoSet2:50
+ - servoSet - line 34
+2019-04-09 10:54:45,851 - root - INFO - Command: ServoSet2:50 - logCommand - line 29
+2019-04-09 10:54:45,851 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 10:54:46,160 - root - INFO - Dethrottle EmoKeyCommand - readEmoKeyCommand - line 205
+2019-04-09 10:54:46,162 - root - INFO - Command: ServoSet1:10
+ - servoSet - line 34
+2019-04-09 10:54:46,263 - root - INFO - Command: ServoSet1:10 - logCommand - line 29
+2019-04-09 10:54:46,264 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 10:54:47,591 - root - INFO - Left EmoKeyCommand - readEmoKeyCommand - line 187
+2019-04-09 10:54:47,592 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-09 10:54:47,694 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-09 10:54:47,695 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 10:54:47,695 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-09 10:54:47,796 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-09 10:54:47,796 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 10:54:47,797 - root - INFO - Command: ServoSet3:20
+ - servoSet - line 34
+2019-04-09 10:54:47,898 - root - INFO - Command: ServoSet3:20 - logCommand - line 29
+2019-04-09 10:54:47,898 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 10:54:48,104 - root - INFO - Left EmoKeyCommand - readEmoKeyCommand - line 187
+2019-04-09 10:54:48,105 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-09 10:54:48,207 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-09 10:54:48,207 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 10:54:48,208 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-09 10:54:48,309 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-09 10:54:48,309 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 10:54:48,310 - root - INFO - Command: ServoSet3:20
+ - servoSet - line 34
+2019-04-09 10:54:48,411 - root - INFO - Command: ServoSet3:20 - logCommand - line 29
+2019-04-09 10:54:48,411 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 10:54:48,923 - root - INFO - Left EmoKeyCommand - readEmoKeyCommand - line 187
+2019-04-09 10:54:48,923 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-09 10:54:49,026 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-09 10:54:49,026 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 10:54:49,027 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-09 10:54:49,127 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-09 10:54:49,127 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 10:54:49,128 - root - INFO - Command: ServoSet3:20
+ - servoSet - line 34
+2019-04-09 10:54:49,229 - root - INFO - Command: ServoSet3:20 - logCommand - line 29
+2019-04-09 10:54:49,230 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 13:14:07,189 - root - INFO - Serial Link to arduino created - __init__ - line 20
+2019-04-09 13:14:07,189 - root - INFO - Command: ServoSet1:10
+ - servoSet - line 34
+2019-04-09 13:14:08,291 - root - INFO - Command: ServoSet1:10 - logCommand - line 29
+2019-04-09 13:14:08,291 - root - INFO - Response: b'' - logCommand - line 30
+2019-04-09 13:14:08,291 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-09 13:14:08,391 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-09 13:14:08,391 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 13:14:08,391 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-09 13:14:08,493 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-09 13:14:08,493 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 13:14:23,543 - root - INFO - Command: ServoSet1:None
+ - servoSet - line 34
+2019-04-09 13:15:55,627 - root - INFO - Command: ServoSet1:None - logCommand - line 29
+2019-04-09 13:15:55,627 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 13:16:20,006 - root - INFO - Command: ServoSet1:None
+ - servoSet - line 34
+2019-04-09 13:16:31,181 - root - INFO - Command: ServoSet1:None - logCommand - line 29
+2019-04-09 13:16:31,181 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 13:16:32,183 - root - INFO - Command: ServoSet1:None
+ - servoSet - line 34
+2019-04-09 13:16:32,284 - root - INFO - Command: ServoSet1:None - logCommand - line 29
+2019-04-09 13:16:32,284 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-09 13:16:33,285 - root - INFO - Command: ServoSet1:None
+ - servoSet - line 34
+2019-04-09 13:16:33,385 - root - INFO - Command: ServoSet1:None - logCommand - line 29
+2019-04-09 13:16:33,385 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:50:51,497 - root - INFO - Serial Link to arduino created - __init__ - line 20
+2019-04-23 10:50:51,502 - root - INFO - Command: ServoSet1:10
+ - servoSet - line 34
+2019-04-23 10:50:52,605 - root - INFO - Command: ServoSet1:10 - logCommand - line 29
+2019-04-23 10:50:52,605 - root - INFO - Response: b'' - logCommand - line 30
+2019-04-23 10:50:52,605 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-23 10:50:52,707 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-23 10:50:52,707 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:50:52,708 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-23 10:50:52,809 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-23 10:50:52,810 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:50:55,494 - root - INFO - Increase Altitude EmoKecommandCommand: Throttle  - readEmoKeyCommand - line 179
+2019-04-23 10:50:55,494 - root - INFO - Command: ServoSet1:35
+ - servoSet - line 34
+2019-04-23 10:50:55,696 - root - INFO - Command: ServoSet1:35 - logCommand - line 29
+2019-04-23 10:50:55,697 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:50:56,414 - root - INFO - Increase Altitude EmoKecommandCommand: Throttle  - readEmoKeyCommand - line 191
+2019-04-23 10:50:56,414 - root - INFO - Command: ServoSet1:20
+ - servoSet - line 34
+2019-04-23 10:50:56,565 - root - INFO - Command: ServoSet1:20 - logCommand - line 29
+2019-04-23 10:50:56,565 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:50:57,082 - root - INFO - Increase Altitude EmoKecommandCommand: Throttle  - readEmoKeyCommand - line 179
+2019-04-23 10:50:57,083 - root - INFO - Command: ServoSet1:35
+ - servoSet - line 34
+2019-04-23 10:50:57,232 - root - INFO - Command: ServoSet1:35 - logCommand - line 29
+2019-04-23 10:50:57,233 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:50:59,481 - root - INFO - Increase Altitude EmoKecommandCommand: Throttle  - readEmoKeyCommand - line 179
+2019-04-23 10:50:59,481 - root - INFO - Command: ServoSet1:35
+ - servoSet - line 34
+2019-04-23 10:50:59,583 - root - INFO - Command: ServoSet1:35 - logCommand - line 29
+2019-04-23 10:50:59,584 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:00,098 - root - INFO - Increase Altitude EmoKecommandCommand: Throttle  - readEmoKeyCommand - line 179
+2019-04-23 10:51:00,098 - root - INFO - Command: ServoSet1:35
+ - servoSet - line 34
+2019-04-23 10:51:00,200 - root - INFO - Command: ServoSet1:35 - logCommand - line 29
+2019-04-23 10:51:00,201 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:00,614 - root - INFO - Increase Altitude EmoKecommandCommand: Throttle  - readEmoKeyCommand - line 179
+2019-04-23 10:51:00,614 - root - INFO - Command: ServoSet1:35
+ - servoSet - line 34
+2019-04-23 10:51:00,715 - root - INFO - Command: ServoSet1:35 - logCommand - line 29
+2019-04-23 10:51:00,715 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:01,842 - root - INFO - Increase Altitude EmoKecommandCommand: Throttle  - readEmoKeyCommand - line 179
+2019-04-23 10:51:01,842 - root - INFO - Command: ServoSet1:35
+ - servoSet - line 34
+2019-04-23 10:51:01,943 - root - INFO - Command: ServoSet1:35 - logCommand - line 29
+2019-04-23 10:51:01,944 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:02,356 - root - INFO - Increase Altitude EmoKecommandCommand: Throttle  - readEmoKeyCommand - line 179
+2019-04-23 10:51:02,356 - root - INFO - Command: ServoSet1:35
+ - servoSet - line 34
+2019-04-23 10:51:02,458 - root - INFO - Command: ServoSet1:35 - logCommand - line 29
+2019-04-23 10:51:02,458 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:05,682 - root - INFO - Up Pressed rolling forward - rollKeyboardControll - line 79
+2019-04-23 10:51:05,683 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-23 10:51:05,784 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-23 10:51:05,784 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:11,282 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-23 10:51:11,385 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-23 10:51:11,385 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:11,386 - root - INFO - Command: ServoSet2:10
+ - servoSet - line 34
+2019-04-23 10:51:11,588 - root - INFO - Command: ServoSet2:10 - logCommand - line 29
+2019-04-23 10:51:11,589 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:11,691 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-23 10:51:11,792 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-23 10:51:11,792 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:11,792 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-23 10:51:11,994 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-23 10:51:11,994 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:13,624 - root - INFO - Up Pressed rolling forward - rollKeyboardControll - line 79
+2019-04-23 10:51:13,624 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-23 10:51:13,725 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-23 10:51:13,725 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:13,726 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-23 10:51:13,827 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-23 10:51:13,827 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:13,828 - root - INFO - Command: ServoSet2:10
+ - servoSet - line 34
+2019-04-23 10:51:14,030 - root - INFO - Command: ServoSet2:10 - logCommand - line 29
+2019-04-23 10:51:14,030 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:14,132 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-23 10:51:14,233 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-23 10:51:14,233 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:14,234 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-23 10:51:14,435 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-23 10:51:14,436 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:14,538 - root - INFO - Down Pressed rolling backwards - rollKeyboardControll - line 88
+2019-04-23 10:51:14,538 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-23 10:51:14,640 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-23 10:51:14,640 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:14,641 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-23 10:51:14,742 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-23 10:51:14,742 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:14,743 - root - INFO - Command: ServoSet2:60
+ - servoSet - line 34
+2019-04-23 10:51:14,943 - root - INFO - Command: ServoSet2:60 - logCommand - line 29
+2019-04-23 10:51:14,943 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:15,046 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-23 10:51:15,147 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-23 10:51:15,147 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:15,147 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-23 10:51:15,349 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-23 10:51:15,349 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:15,451 - root - INFO - Left Pressed rolling left - rollKeyboardControll - line 97
+2019-04-23 10:51:15,452 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-23 10:51:15,553 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-23 10:51:15,553 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:15,554 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-23 10:51:15,655 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-23 10:51:15,655 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:15,656 - root - INFO - Command: ServoSet3:10
+ - servoSet - line 34
+2019-04-23 10:51:15,857 - root - INFO - Command: ServoSet3:10 - logCommand - line 29
+2019-04-23 10:51:15,857 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:15,959 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-23 10:51:16,160 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-23 10:51:16,160 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:16,160 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-23 10:51:16,261 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-23 10:51:16,261 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:16,363 - root - INFO - Right Pressed rolling right - rollKeyboardControll - line 106
+2019-04-23 10:51:16,364 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-23 10:51:16,465 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-23 10:51:16,465 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:16,466 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-23 10:51:16,567 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-23 10:51:16,567 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:16,567 - root - INFO - Command: ServoSet3:60
+ - servoSet - line 34
+2019-04-23 10:51:16,770 - root - INFO - Command: ServoSet3:60 - logCommand - line 29
+2019-04-23 10:51:16,770 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:16,872 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-23 10:51:17,073 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-23 10:51:17,073 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:17,073 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-23 10:51:17,175 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-23 10:51:17,175 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:17,380 - root - INFO - Up Pressed rolling forward - rollKeyboardControll - line 79
+2019-04-23 10:51:17,380 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-23 10:51:17,482 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-23 10:51:17,483 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:17,483 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-23 10:51:17,584 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-23 10:51:17,585 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:17,585 - root - INFO - Command: ServoSet2:10
+ - servoSet - line 34
+2019-04-23 10:51:17,786 - root - INFO - Command: ServoSet2:10 - logCommand - line 29
+2019-04-23 10:51:17,786 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:17,888 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-23 10:51:17,989 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-23 10:51:17,989 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:17,990 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-23 10:51:18,191 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-23 10:51:18,192 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:18,396 - root - INFO - Down Pressed rolling backwards - rollKeyboardControll - line 88
+2019-04-23 10:51:18,396 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-23 10:51:18,498 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-23 10:51:18,498 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:18,499 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-23 10:51:18,600 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-23 10:51:18,601 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:18,601 - root - INFO - Command: ServoSet2:60
+ - servoSet - line 34
+2019-04-23 10:51:18,801 - root - INFO - Command: ServoSet2:60 - logCommand - line 29
+2019-04-23 10:51:18,802 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:18,904 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-23 10:51:19,005 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-23 10:51:19,005 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:19,006 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-23 10:51:19,207 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-23 10:51:19,207 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:19,309 - root - INFO - Left Pressed rolling left - rollKeyboardControll - line 97
+2019-04-23 10:51:19,310 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-23 10:51:19,411 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-23 10:51:19,411 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:19,412 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-23 10:51:19,513 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-23 10:51:19,513 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:19,514 - root - INFO - Command: ServoSet3:10
+ - servoSet - line 34
+2019-04-23 10:51:19,715 - root - INFO - Command: ServoSet3:10 - logCommand - line 29
+2019-04-23 10:51:19,715 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:19,817 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-23 10:51:20,018 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-23 10:51:20,018 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:20,018 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-23 10:51:20,120 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-23 10:51:20,120 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:20,223 - root - INFO - Right Pressed rolling right - rollKeyboardControll - line 106
+2019-04-23 10:51:20,224 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-23 10:51:20,325 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-23 10:51:20,325 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:20,326 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-23 10:51:20,427 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-23 10:51:20,427 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:20,428 - root - INFO - Command: ServoSet3:60
+ - servoSet - line 34
+2019-04-23 10:51:20,628 - root - INFO - Command: ServoSet3:60 - logCommand - line 29
+2019-04-23 10:51:20,629 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:20,731 - root - INFO - Command: ServoSet3:35
+ - servoSet - line 34
+2019-04-23 10:51:20,931 - root - INFO - Command: ServoSet3:35 - logCommand - line 29
+2019-04-23 10:51:20,932 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:20,932 - root - INFO - Command: ServoSet2:35
+ - servoSet - line 34
+2019-04-23 10:51:21,033 - root - INFO - Command: ServoSet2:35 - logCommand - line 29
+2019-04-23 10:51:21,033 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:21,424 - root - INFO - W Pressed Increasing throttle - throttleKeyboardControll - line 46
+2019-04-23 10:51:21,425 - root - INFO - Command: ServoSet1:40
+ - servoSet - line 34
+2019-04-23 10:51:21,526 - root - INFO - Command: ServoSet1:40 - logCommand - line 29
+2019-04-23 10:51:21,526 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:21,729 - root - INFO - W Pressed Increasing throttle - throttleKeyboardControll - line 46
+2019-04-23 10:51:21,730 - root - INFO - Command: ServoSet1:45
+ - servoSet - line 34
+2019-04-23 10:51:21,831 - root - INFO - Command: ServoSet1:45 - logCommand - line 29
+2019-04-23 10:51:21,831 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:22,034 - root - INFO - Space Pressed decreasing throttle - throttleKeyboardControll - line 52
+2019-04-23 10:51:22,035 - root - INFO - Command: ServoSet1:40
+ - servoSet - line 34
+2019-04-23 10:51:22,137 - root - INFO - Command: ServoSet1:40 - logCommand - line 29
+2019-04-23 10:51:22,137 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:22,441 - root - INFO - Space Pressed decreasing throttle - throttleKeyboardControll - line 52
+2019-04-23 10:51:22,443 - root - INFO - Command: ServoSet1:35
+ - servoSet - line 34
+2019-04-23 10:51:22,545 - root - INFO - Command: ServoSet1:35 - logCommand - line 29
+2019-04-23 10:51:22,545 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:22,647 - root - INFO - Space Pressed decreasing throttle - throttleKeyboardControll - line 52
+2019-04-23 10:51:22,648 - root - INFO - Command: ServoSet1:30
+ - servoSet - line 34
+2019-04-23 10:51:22,750 - root - INFO - Command: ServoSet1:30 - logCommand - line 29
+2019-04-23 10:51:22,751 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:22,853 - root - INFO - Space Pressed decreasing throttle - throttleKeyboardControll - line 52
+2019-04-23 10:51:22,855 - root - INFO - Command: ServoSet1:25
+ - servoSet - line 34
+2019-04-23 10:51:22,956 - root - INFO - Command: ServoSet1:25 - logCommand - line 29
+2019-04-23 10:51:22,957 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:23,059 - root - INFO - Space Pressed decreasing throttle - throttleKeyboardControll - line 52
+2019-04-23 10:51:23,060 - root - INFO - Command: ServoSet1:20
+ - servoSet - line 34
+2019-04-23 10:51:23,162 - root - INFO - Command: ServoSet1:20 - logCommand - line 29
+2019-04-23 10:51:23,162 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:23,265 - root - INFO - Space Pressed decreasing throttle - throttleKeyboardControll - line 52
+2019-04-23 10:51:23,267 - root - INFO - Command: ServoSet1:15
+ - servoSet - line 34
+2019-04-23 10:51:23,370 - root - INFO - Command: ServoSet1:15 - logCommand - line 29
+2019-04-23 10:51:23,370 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:23,472 - root - INFO - Space Pressed decreasing throttle - throttleKeyboardControll - line 52
+2019-04-23 10:51:23,473 - root - INFO - Command: ServoSet1:10
+ - servoSet - line 34
+2019-04-23 10:51:23,575 - root - INFO - Command: ServoSet1:10 - logCommand - line 29
+2019-04-23 10:51:23,576 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:23,678 - root - INFO - Space Pressed decreasing throttle - throttleKeyboardControll - line 52
+2019-04-23 10:51:23,681 - root - INFO - Command: ServoSet1:10
+ - servoSet - line 34
+2019-04-23 10:51:23,782 - root - INFO - Command: ServoSet1:10 - logCommand - line 29
+2019-04-23 10:51:23,783 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:23,885 - root - INFO - Space Pressed decreasing throttle - throttleKeyboardControll - line 52
+2019-04-23 10:51:23,887 - root - INFO - Command: ServoSet1:10
+ - servoSet - line 34
+2019-04-23 10:51:23,988 - root - INFO - Command: ServoSet1:10 - logCommand - line 29
+2019-04-23 10:51:23,988 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
+2019-04-23 10:51:24,090 - root - INFO - Space Pressed decreasing throttle - throttleKeyboardControll - line 52
+2019-04-23 10:51:24,091 - root - INFO - Command: ServoSet1:10
+ - servoSet - line 34
+2019-04-23 10:51:24,193 - root - INFO - Command: ServoSet1:10 - logCommand - line 29
+2019-04-23 10:51:24,193 - root - INFO - Response: b'ServoMovePass\n' - logCommand - line 30
